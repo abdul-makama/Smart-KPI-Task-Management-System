@@ -1,6 +1,8 @@
 # smartteck
 private repo for smartteck log
 
+#Smart KPI & Task Management System
+
 📁 Project Documentation
 
 # 🚀 KPI Dashboard with Role-Based Access Control
